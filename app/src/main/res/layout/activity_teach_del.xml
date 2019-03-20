@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".teach_del"
+    android:background="@drawable/databack"
+   >
+
+    <EditText
+        android:id="@+id/tdid"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginLeft="0.6in"
+        android:layout_marginTop="0.5in"
+        android:ems="10"
+        android:hint="id"
+        android:inputType="textPersonName"
+        android:drawableLeft="@drawable/ic_adb"
+        android:background="@drawable/edit_text_database"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"/>
+
+    <Button
+        android:id="@+id/tdel"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tdid"
+        android:layout_alignStart="@+id/tdid"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_database"
+        android:text="delete"
+        android:textColor="#ffffff" />
+</RelativeLayout>

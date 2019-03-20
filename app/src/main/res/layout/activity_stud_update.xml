@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stud_update"
+    android:background="@drawable/databack"
+    >
+
+    <EditText
+        android:id="@+id/upid"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0.6in"
+        android:layout_marginTop="0.5in"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:background="@drawable/edit_text_database"
+        android:drawableLeft="@drawable/ic_perm_identity_name"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"/>
+
+
+    <EditText
+        android:id="@+id/upass"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below="@id/upid"
+        android:layout_alignStart="@+id/upid"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/edit_text_database"
+        android:hint="Password"
+        android:textColorHint="#ffffff"
+        android:ems="10"
+        android:inputType="numberPassword"
+        android:drawableLeft="@drawable/ic_lock_open"/>
+
+
+    <Button
+        android:id="@+id/upstud"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/upass"
+        android:layout_alignStart="@+id/upass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/edit_text_database"
+        android:text="Update"
+        android:textColor="#ffffff" />
+</RelativeLayout>

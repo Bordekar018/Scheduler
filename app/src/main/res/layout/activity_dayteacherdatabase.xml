@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".dayteacherdatabase">
+
+    <TextView
+        android:id="@+id/teachtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="Add and Update Schedule:"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+  <Spinner
+      android:id="@+id/spinnerteacher"
+      android:layout_width="200dp"
+      android:layout_height="35dp"
+      android:layout_marginTop="10dp"
+      android:layout_marginLeft="10dp"
+      android:layout_marginBottom="0.2in"
+      android:background="@drawable/edit_text">
+
+  </Spinner>
+
+    <EditText
+        android:id="@+id/dateteacher"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/spinnerteacher"
+        android:inputType="date"
+        android:hint="Date"
+        android:clickable="true"
+        android:editable="false"
+        android:focusable="false"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_date"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <EditText
+        android:id="@+id/subjectteacher"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/dateteacher"
+        android:inputType="textPersonName"
+        android:hint="Subject"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_class_black"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <EditText
+        android:id="@+id/timeteacher"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/subjectteacher"
+        android:inputType="text"
+        android:hint="Time"
+        android:clickable="true"
+        android:editable="false"
+        android:focusable="false"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_access_time"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <EditText
+        android:id="@+id/timebatch"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/timeteacher"
+        android:inputType="textPersonName"
+        android:hint="Batch"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_perm_identity_black"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+  <EditText
+      android:id="@+id/timebranch"
+      android:layout_width="250dp"
+      android:layout_height="35dp"
+      android:layout_below="@id/timebatch"
+      android:layout_marginLeft="10dp"
+      android:layout_marginBottom="0.2in"
+      android:background="@drawable/edit_text"
+      android:drawableLeft="@drawable/ic_business_black"
+      android:drawablePadding="10dp"
+      android:ems="10"
+      android:hint="Branch"
+      android:inputType="textPersonName"
+      android:textColorHint="@color/black" />
+
+    <Button
+        android:id="@+id/addteacher"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timebranch"
+        android:layout_alignStart="@+id/timebranch"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/btn_database"
+        android:text="Add"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/updateteacher"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addteacher"
+        android:layout_alignStart="@+id/addteacher"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/btn_database"
+        android:text="update"
+        android:textColor="#ffffff" />
+
+  <Button
+      android:id="@+id/deleteteacher"
+      android:layout_width="200dp"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/updateteacher"
+      android:layout_alignStart="@+id/updateteacher"
+      android:layout_marginStart="7dp"
+      android:layout_marginTop="8dp"
+      android:background="@drawable/btn_database"
+      android:text="Delete"
+      android:textColor="#ffffff" />
+
+</LinearLayout>

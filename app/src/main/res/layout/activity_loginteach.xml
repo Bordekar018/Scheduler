@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".loginteach"
+    android:background="@drawable/rightback">
+
+    <EditText
+        android:id="@+id/teachlogin"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0.5in"
+        android:layout_marginTop="165dp"
+        android:background="@drawable/edit_text"
+        android:drawableLeft="@drawable/ic_adb_user"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="ID"
+        android:inputType="textPersonName"
+        android:textColorHint="#000000"/>
+
+    <EditText
+        android:id="@+id/teachpass"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below="@id/teachlogin"
+        android:layout_alignStart="@+id/teachlogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/edit_text"
+        android:drawableLeft="@drawable/ic_lock_pass"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="numberPassword"
+        android:textColorHint="#000000"/>
+
+    <Button
+        android:id="@+id/btnteachlog"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/teachpass"
+        android:layout_alignStart="@+id/teachpass"
+        android:background="@drawable/btn"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="31dp"
+        android:text="Login" />
+</RelativeLayout>

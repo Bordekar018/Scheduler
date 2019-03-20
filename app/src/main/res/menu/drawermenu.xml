@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/stud"
+        android:icon="@drawable/ic_classlogo"
+        android:title="@string/for_students" />
+    <item
+        android:id="@+id/teacher"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="@string/for_teachers"/>
+
+    <item
+        android:id="@+id/rights"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/admin" />
+
+</menu>

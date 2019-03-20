@@ -1,0 +1,4 @@
+#Thu Mar 07 14:13:07 IST 2019
+base.0=C\:\\Users\\shraddha\\AndroidStudioProjects\\Scheduler\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

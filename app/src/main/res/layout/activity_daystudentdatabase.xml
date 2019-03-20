@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".daystudentdatabase">
+
+    <TextView
+        android:id="@+id/tvt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="Add and Update Schedule:"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerteacher"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/tvt"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/datestudent"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/spinnerteacher"
+        android:inputType="date"
+        android:hint="Date"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:clickable="true"
+        android:editable="false"
+        android:focusable="false"
+        android:drawableLeft="@drawable/ic_date"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <EditText
+        android:id="@+id/subjectstudent"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/dateteacher"
+        android:inputType="textPersonName"
+        android:hint="Subject"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_class_black"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <EditText
+        android:id="@+id/subjecttime"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/subjectteacher"
+        android:inputType="text"
+        android:hint="Time"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_access_time"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"
+        android:clickable="true"
+        android:editable="false"
+        android:focusable="false"/>
+
+    <EditText
+        android:id="@+id/subjectprof"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:layout_below="@id/timeteacher"
+        android:inputType="textPersonName"
+        android:hint="Professor"
+        android:textColorHint="@color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="0.2in"
+        android:drawableLeft="@drawable/ic_face_black_24dp"
+        android:drawablePadding="10dp"
+        android:background="@drawable/edit_text"/>
+
+    <Button
+        android:id="@+id/addstudent"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cpass"
+        android:layout_alignStart="@+id/cpass"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_database"
+        android:text="Add"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/updatestudent"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cpass"
+        android:layout_alignStart="@+id/cpass"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/btn_database"
+        android:text="update"
+        android:textColor="#ffffff" />
+    <Button
+        android:id="@+id/deletestudent"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/updatestudent"
+        android:layout_alignStart="@+id/updatestudent"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/btn_database"
+        android:text="Delete"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

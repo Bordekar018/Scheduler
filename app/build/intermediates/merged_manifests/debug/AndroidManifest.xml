@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.amey.scheduler"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.amey.scheduler.EditNoteActivity" />
+        <activity
+            android:name="com.example.amey.scheduler.keepnotes"
+            android:label="@string/title_activity_keepnotes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.amey.scheduler.dayteacherdatabase" />
+        <activity android:name="com.example.amey.scheduler.daystudentdatabase" />
+        <activity
+            android:name="com.example.amey.scheduler.teach_update"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.teach_del"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.teach_add"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.stud_update"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.del_stud"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.Add_Stud"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.amey.scheduler.HomeActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.amey.scheduler.student"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.teacher"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.loginstud"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.loginteach"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.adminrights"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.adminforteachers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.amey.scheduler.adminforstudents"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

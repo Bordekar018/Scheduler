@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".teach_add"
+    android:background="@drawable/databack"
+   >
+
+    <EditText
+        android:id="@+id/tid"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0.6in"
+        android:layout_marginTop="0.5in"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/edit_text_database"
+        android:drawableLeft="@drawable/ic_perm_identity_name"
+        android:textColorHint="#ffffff"/>
+
+
+    <EditText
+        android:id="@+id/tpass"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below="@id/tid"
+        android:layout_alignStart="@+id/tid"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/edit_text_database"
+        android:hint="Password"
+        android:textColorHint="#ffffff"
+        android:ems="10"
+        android:inputType="numberPassword"
+        android:drawableLeft="@drawable/ic_lock_open" />
+
+    <EditText
+        android:id="@+id/tcpass"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below="@id/tpass"
+        android:layout_alignStart="@+id/tpass"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/edit_text_database"
+        android:hint="Confirm Password"
+        android:textColorHint="#ffffff"
+        android:ems="10"
+        android:inputType="numberPassword"
+        android:drawableLeft="@drawable/ic_lock_open" />
+
+
+    <Button
+        android:id="@+id/tadd"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tcpass"
+        android:layout_alignStart="@+id/tcpass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/btn_database"
+        android:text="Add"
+        android:textColor="#ffffff" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,287 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\438d6d6bda21f30f707067686aed9c02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9feae9bc4d5497d0f457dde2b7d6b50d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e0a00f8d643b9682dbfab14781838150\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:runtime:1.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b7c55df6c691bbb65a2cd29462fa4a66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acf817e3ddcf94f4d1ba482b6be52075\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d06bbed7325d2479eceb23305e907ce1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b41a3702d9889cceb063afdb39c155a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3149f2f00aa3fd6550bda54080ee30ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\66c9f998c734eb6782ee08ba9563520b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2a06540449d17037aee2eaf89b1f5d37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9d2e6952f717db9f22c57f15813d308f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7da7d9ad01c5e88fcc327ac3d1c0aca2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\59db56d6bd286e9e89b4999984a7d855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d96868f871d55e8c480c0da7b1c93ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f086137591819295bc237da0d6229b1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0bcd16903287e11524b4065c70c60096\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fcac0578b4409c74af867e5fe47ad56d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bd9b4a5ed508c4230d1648b6ca892f9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa21e270606fc4aebeac03d019621c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3528c71340051b534ceb56876c031ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7710b3a5f45ec021ab59df6bb55a6312\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9bd5018637c597766916356d8a283d69\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\55ede9c90b9d86589fad3b6b2777dd25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3686e94f60c1edef5da56c7393b4c982\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\40b6ea67b1805708f1a5408fa1d4039c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f424125a5cbb4683c0f6c901c0fce60c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\614c1d272d970dad8d7080de34f392b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6e40a12c90814a5c14a4a01285c92877\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\edf62c4d5c0349fb164f5645cd6c9e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a88f43a4507b2dbcd5ccb0b27abd537\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1d2e73e2203390c58403f646823415dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\166e9414a1c2f2944f23ae4c8434a62e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfa29d85f72756186f169bdcc316d82e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960f6e9ec953aedf905b770c2f89206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f27715d69e081db6ed60e201e1c43c7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:5:5-70:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\438d6d6bda21f30f707067686aed9c02\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\438d6d6bda21f30f707067686aed9c02\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9bd5018637c597766916356d8a283d69\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9bd5018637c597766916356d8a283d69\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.amey.scheduler.EditNoteActivity
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:12:9-63
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:12:19-51
+activity#com.example.amey.scheduler.keepnotes
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:13:9-16:59
+	android:label
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:15:13-61
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:14:13-38
+activity#com.example.amey.scheduler.dayteacherdatabase
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:17:19-53
+activity#com.example.amey.scheduler.daystudentdatabase
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:18:19-53
+activity#com.example.amey.scheduler.teach_update
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:19:9-21:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.example.amey.scheduler.teach_del
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:22:9-24:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:23:13-38
+activity#com.example.amey.scheduler.teach_add
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:25:9-27:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:26:13-38
+activity#com.example.amey.scheduler.stud_update
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:29:13-40
+activity#com.example.amey.scheduler.del_stud
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:31:9-33:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:32:13-37
+activity#com.example.amey.scheduler.Add_Stud
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:34:9-36:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:35:13-37
+activity#com.example.amey.scheduler.MainActivity
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:37:9-45:20
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.amey.scheduler.HomeActivity
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:46:9-48:47
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.example.amey.scheduler.student
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:49:9-51:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:50:13-36
+activity#com.example.amey.scheduler.teacher
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:52:9-54:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:53:13-36
+activity#com.example.amey.scheduler.loginstud
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:55:9-57:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:56:13-38
+activity#com.example.amey.scheduler.loginteach
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:58:9-60:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:59:13-39
+activity#com.example.amey.scheduler.adminrights
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:61:9-63:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:62:13-40
+activity#com.example.amey.scheduler.adminforteachers
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:64:9-66:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:65:13-45
+activity#com.example.amey.scheduler.adminforstudents
+ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:67:9-69:59
+	android:theme
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml:68:13-45
+uses-sdk
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\438d6d6bda21f30f707067686aed9c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\438d6d6bda21f30f707067686aed9c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9feae9bc4d5497d0f457dde2b7d6b50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9feae9bc4d5497d0f457dde2b7d6b50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e0a00f8d643b9682dbfab14781838150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e0a00f8d643b9682dbfab14781838150\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b7c55df6c691bbb65a2cd29462fa4a66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b7c55df6c691bbb65a2cd29462fa4a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acf817e3ddcf94f4d1ba482b6be52075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acf817e3ddcf94f4d1ba482b6be52075\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d06bbed7325d2479eceb23305e907ce1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d06bbed7325d2479eceb23305e907ce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b41a3702d9889cceb063afdb39c155a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b41a3702d9889cceb063afdb39c155a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3149f2f00aa3fd6550bda54080ee30ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3149f2f00aa3fd6550bda54080ee30ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\66c9f998c734eb6782ee08ba9563520b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\66c9f998c734eb6782ee08ba9563520b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2a06540449d17037aee2eaf89b1f5d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2a06540449d17037aee2eaf89b1f5d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9d2e6952f717db9f22c57f15813d308f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9d2e6952f717db9f22c57f15813d308f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7da7d9ad01c5e88fcc327ac3d1c0aca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7da7d9ad01c5e88fcc327ac3d1c0aca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\59db56d6bd286e9e89b4999984a7d855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\59db56d6bd286e9e89b4999984a7d855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d96868f871d55e8c480c0da7b1c93ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d96868f871d55e8c480c0da7b1c93ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f086137591819295bc237da0d6229b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f086137591819295bc237da0d6229b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0bcd16903287e11524b4065c70c60096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0bcd16903287e11524b4065c70c60096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fcac0578b4409c74af867e5fe47ad56d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fcac0578b4409c74af867e5fe47ad56d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bd9b4a5ed508c4230d1648b6ca892f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bd9b4a5ed508c4230d1648b6ca892f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa21e270606fc4aebeac03d019621c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa21e270606fc4aebeac03d019621c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3528c71340051b534ceb56876c031ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3528c71340051b534ceb56876c031ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7710b3a5f45ec021ab59df6bb55a6312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7710b3a5f45ec021ab59df6bb55a6312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a532685afc4c54ba32ae02cfcb8be624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9bd5018637c597766916356d8a283d69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9bd5018637c597766916356d8a283d69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\55ede9c90b9d86589fad3b6b2777dd25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\55ede9c90b9d86589fad3b6b2777dd25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3686e94f60c1edef5da56c7393b4c982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3686e94f60c1edef5da56c7393b4c982\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\40b6ea67b1805708f1a5408fa1d4039c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\40b6ea67b1805708f1a5408fa1d4039c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f424125a5cbb4683c0f6c901c0fce60c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f424125a5cbb4683c0f6c901c0fce60c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\614c1d272d970dad8d7080de34f392b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\614c1d272d970dad8d7080de34f392b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6e40a12c90814a5c14a4a01285c92877\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6e40a12c90814a5c14a4a01285c92877\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\edf62c4d5c0349fb164f5645cd6c9e3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\edf62c4d5c0349fb164f5645cd6c9e3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a88f43a4507b2dbcd5ccb0b27abd537\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a88f43a4507b2dbcd5ccb0b27abd537\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1d2e73e2203390c58403f646823415dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1d2e73e2203390c58403f646823415dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\166e9414a1c2f2944f23ae4c8434a62e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\166e9414a1c2f2944f23ae4c8434a62e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfa29d85f72756186f169bdcc316d82e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfa29d85f72756186f169bdcc316d82e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960f6e9ec953aedf905b770c2f89206\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960f6e9ec953aedf905b770c2f89206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f27715d69e081db6ed60e201e1c43c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shraddha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f27715d69e081db6ed60e201e1c43c7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shraddha\AndroidStudioProjects\Scheduler\app\src\main\AndroidManifest.xml
